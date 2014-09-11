@@ -96,6 +96,10 @@ e="line-height:1.5;"><img src="http://oimagec5.ydstatic.com/image?product=gouwu&
 ssowowowwo
 
 
+print 'hello,python!':
+
+
+
 AAAAAAAAAAAAAAA
 	wocao
 </p>
